@@ -3,6 +3,7 @@
     "theme": "#36B9B9",
     "sidebar": [
       ["Overview", "/"],
+      ["Overview", "/settings"],
       ["This", "https://github.com/TolyanDimov/docs/"]
     ]
 }
