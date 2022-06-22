@@ -1,1 +1,8 @@
-
+{
+    "name": "mytest",
+    "theme": "#36B9B9",
+    "sidebar": [
+      ["Overview", "/"],
+      ["This", "https://github.com/TolyanDimov/docs/"]
+    ]
+}
